@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3", "Demo3\Demo3.csproj", "{D6385E62-8D8B-41B0-A589-B3C4B8259D41}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_Core", "Demo3_Core\Demo3_Core.csproj", "{B67D3299-7264-48A1-94AE-3C4CD845DCDA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_DataAccess", "Demo3_DataAccess\Demo3_DataAccess.csproj", "{DB35801D-9260-4BBB-B5BE-D615A3998ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_Model", "Demo3_Model\Demo3_Model.csproj", "{2F0F0970-6737-428E-ABB5-01E3653B1C85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DB35801D-9260-4BBB-B5BE-D615A3998ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB35801D-9260-4BBB-B5BE-D615A3998ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB35801D-9260-4BBB-B5BE-D615A3998ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0F0970-6737-428E-ABB5-01E3653B1C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0F0970-6737-428E-ABB5-01E3653B1C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0F0970-6737-428E-ABB5-01E3653B1C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0F0970-6737-428E-ABB5-01E3653B1C85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
